@@ -10,7 +10,7 @@
 | Project | What it answers | Stack |
 |---|---|---|
 | Loan Default Scoring Evaluated in Money (LendingClub) | Does a better AUC mean a better return? The default model is judged by the ROI of the portfolio it selects, not by AUC. *(in progress)* | Python, SQL, LightGBM, SHAP, Streamlit |
-| [Tenge (KZT) Exchange-Rate Analysis 2005-2026](https://github.com/BakdauletBolatA/tenge-fx-analysis) | What actually moves the tenge: the ruble or oil? The ruble is the closest companion (daily return correlation 0.32) but explains only about 10% of daily variance. Oil shows up at a quarterly horizon (-0.50), but that falls to -0.08 once oil-crash quarters are removed. | Python, pandas, SQL, statistics |
+| [Tenge (KZT) Exchange-Rate Analysis 2005-2026](https://github.com/Tlmadi03/tenge-kzt-fx-drivers) | What actually moves the tenge: the ruble or oil? Before the 2015 float, neither shows a reliable daily link. After it, the ruble is the stronger one (5-day return correlation 0.37, n = 2,666) and oil is weaker but survives controlling for the ruble (-0.30 to -0.25, one-day lag). Both links are unstable and weak after mid-2022. | Python, SQL (DuckDB), statsmodels, permutation tests |
 
 ## 💼 Experience
 
