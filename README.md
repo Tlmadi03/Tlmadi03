@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Madi
+### Data Analyst
 
-<!--
-**Tlmadi03/Tlmadi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I work with data in finance and product analytics, and I measure whether a result actually holds up.
+- 🌱 Currently going deeper into forecasting and robustness checks for findings on financial data.
+- 📫 Reach me at [tleumaganbetovmadi@gmail.com](mailto:tleumaganbetovmadi@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/madi-tleumaganbetov)
 
-Here are some ideas to get you started:
+## 📈 Data & finance projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | What it answers | Stack |
+|---|---|---|
+| Loan Default Scoring Evaluated in Money (LendingClub) | Does a better AUC mean a better return? The default model is judged by the ROI of the portfolio it selects, not by AUC. *(in progress)* | Python, SQL, LightGBM, SHAP, Streamlit |
+| [Tenge (KZT) Exchange-Rate Analysis 2005-2026](https://github.com/BakdauletBolatA/tenge-fx-analysis) | What actually moves the tenge: the ruble or oil? The ruble is the closest companion (daily return correlation 0.32) but explains only about 10% of daily variance. Oil shows up at a quarterly horizon (-0.50), but that falls to -0.08 once oil-crash quarters are removed. | Python, pandas, SQL, statistics |
+
+## 💼 Experience
+
+**Freedom Bank, Data Analyst** (Sep 2025 - Oct 2026)
+Power BI dashboards and KPI monitoring. Data pulls and analysis from the DWH and core banking (Colvir) in Python and BI: EDA, correlations, seasonality, anomalies and trends. Contributed to SME base growth of more than 1.5x over a year.
+
+**inDrive, Data Analyst Intern** (Jun - Aug 2025)
+Built 10+ product KPIs (conversion, retention) with SQL (JOINs, CTEs, window functions) and pandas on 1M+ rows, plus 3 Power BI dashboards. Found a 7% drop in completed trips.
+
+*B.Eng. Information Technology, KBTU (2021-2025)*
+
+## 🛠 Tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-02A04B)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
+---
+[LinkedIn](https://www.linkedin.com/in/madi-tleumaganbetov) · Almaty, Kazakhstan
