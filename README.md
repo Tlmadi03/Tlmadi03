@@ -3,7 +3,7 @@
 
 - 🔭 I work with data in finance and product analytics, and I measure whether a result actually holds up.
 - 🌱 Currently going deeper into forecasting and robustness checks for findings on financial data.
-- 📫 Reach me at [tleumaganbetovmadi@gmail.com](mailto:tleumaganbetovmadi@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/madi-tleumaganbetov)
+- 📫 Reach me at [tleumaganbetovmadi@gmail.com](mailto:tleumaganbetovmadi@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/madi-tleumaganbetov-0a2796442/)
 
 ## 📈 Data & finance projects
 
@@ -35,4 +35,4 @@ Built 10+ product KPIs (conversion, retention) with SQL (JOINs, CTEs, window fun
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ---
-[LinkedIn](https://www.linkedin.com/in/madi-tleumaganbetov) · Almaty, Kazakhstan
+[LinkedIn](https://www.linkedin.com/in/madi-tleumaganbetov-0a2796442/) · Almaty, Kazakhstan
